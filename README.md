@@ -17,11 +17,11 @@ This is my personal portfolio website, built with HTML and basic CSS. The websit
 - CSS (Basic Styling)
 
 ## Live Demo:
-You can view the live version of my portfolio [here](insert-link-to-live-site).
+You can view the live version of my portfolio [here]
 
 ## Installation:
 1. Clone this repository:  
-   `git clone https://github.com/your-username/portfolio-website.git`
+   
 2. Navigate to the project folder:  
    `cd portfolio-website`
 3. Open `index.html` for the Home page or `contact.html` for the Contact page in your browser.
